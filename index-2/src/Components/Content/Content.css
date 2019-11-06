@@ -1,0 +1,9 @@
+.card-animals {
+    max-width: 300px;
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.card-body {
+    background: #e6b800;
+}

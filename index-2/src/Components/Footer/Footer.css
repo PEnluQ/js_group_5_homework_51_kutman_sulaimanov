@@ -1,0 +1,14 @@
+.footer {
+    background: #808000;
+    color: white;
+    margin-top: 90px;
+    text-align: center;
+    padding: 5px;
+}
+.number {
+    color: #ffcc00;
+    cursor: pointer;
+}
+.number:hover {
+    color: blue;
+}
