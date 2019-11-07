@@ -12,7 +12,7 @@ class Header extends React.Component {
     render() {
         return (
             <div>
-                <Navbar className='fon' light expand="md">
+                <Navbar className='header' light expand="md">
                     <NavbarBrand href="/">PetShop</NavbarBrand>
                     <Nav className="ml-auto" navbar>
                         <NavItem>
